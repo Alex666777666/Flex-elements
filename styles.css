@@ -3,7 +3,7 @@ div.block {
   width: 100px;
 
   flex-shrink: 0;
-  flex-grow: 0;
+  flex-grow: 1;
 }
 div {
   display: flex;
